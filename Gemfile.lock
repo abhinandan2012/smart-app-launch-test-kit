@@ -378,7 +378,6 @@ DEPENDENCIES
   erb (>= 6.0.1.1)
   factory_bot (~> 6.1)
   rack-test (~> 1.1.0)
-  roo (~> 2.10.1)
   rspec (~> 3.10)
   selenium-webdriver
   smart_app_launch_test_kit!
